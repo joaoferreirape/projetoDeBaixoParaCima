@@ -29,6 +29,18 @@ npm install
 npm run dev
 ```
 
+## Nível 2 - exemplo de código `javascript`
+
+No meio do texto eu posso destacar código utilizando crases, como por exemplo `console.log("Hello World!");`.
+
+Se eu quiser destacar um bloco de código, posso utilizar três crases, como no exemplo abaixo:
+
+```javascript
+function helloWorld() {
+  console.log("Hello World!");
+}
+```
+
 ## Nível 2 - Membros do projeto
 
 - Zezinho dos bug
